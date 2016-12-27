@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Bitter');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body { margin: 3em; font-family: 'Open sans', sans-serif }
+
+a { color: #000; text-decoration: none }
+a:hover { font-style: oblique }
+
+h1, h2, h3 { margin: 0.2em 0 0.2em }
+
+h1 { font-weight: bold; font-size: 3em; font-family: 'Bitter', serif; border-left: solid 0.1em; text-align: center }
+h2 { font-weight: normal; font-size: 1.4em}
+
+.box { margin: 2em auto 2em auto; padding: 1em; width: 50em }
+
+.infotable { table-layout: fixed; width: 100% }
+.infotable td, .singletd { padding: 0 2em 0 2em; vertical-align: top }
+.infotable p { font-size: 0.9em }
+.infotable h3 { font-size: 1.4em; font-family:  }
+
+#header { margin: 1em; height: auto; text-align: center; font-family: 'Source Sans Pro', sans-serif }
+#header img { height: 10em }
+#navbar { margin: auto }
+#navbar td { padding: 0 0.3em 0 0.3em; font-size: 1.2em }
+
+#info { margin: 2em 0 2em 0}
+
+#slideshow { display: block; margin: 2em auto 2em auto; width: 100% }
