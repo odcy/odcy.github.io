@@ -1,0 +1,11 @@
+body { font-size: 2em; padding: 1em }
+h1 { margin: 0 }
+
+.box {
+    background-color: #eee;
+	padding: 1em;
+	margin: 1em auto 1em auto;
+	width: 500px;
+}
+
+textarea { width: 100% }
