@@ -4,7 +4,7 @@ catch (err) { window.alert ("could not load properly; nothing will work."); }
 const numbers = "0123456789";
 const signs = "+-";
 
-// TODO: lining up similar equations, figuring out number sub or sup, two+ digit numbers, Balance cHeckre, add pretty arrows
+// TODO: lining up similar equations, figuring out number sub or sup, two+ digit numbers
 
 function convert (e) { // e is event
 
